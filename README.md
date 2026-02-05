@@ -1,4 +1,13 @@
+<div align="center">
+  
 # Free Right Now
+![GitHub License](https://img.shields.io/github/license/Cfomodz/free-right-now)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Cfomodz)
+![Discord](https://img.shields.io/discord/425182625032962049)
+
+<img src="https://github.com/user-attachments/assets/8e5a09ec-ec01-483d-bd3e-64d2969a9bb5" alt="label-writer" width="375"/>
+
+</div>
 
 Free Right Now is a signal-driven availability web app that answers a simple question: are you free right now?
 Instead of calendar links, it uses read-only signals (email activity, chat presence, phone unlocks, coding streaks)
